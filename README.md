@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @single96
+- 👀 I’m interested in FrontEnd development particulary JavaScript
+- 🌱 I’m currently learning JavaScript
